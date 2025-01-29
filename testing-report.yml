@@ -49,7 +49,7 @@
  
 - summary: |
     Кроссбраузерная проверка
-  status: pass
+  status: fail
 
 - summary: |
     Проверка мобильной версии
